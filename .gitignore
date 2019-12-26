@@ -1,0 +1,7 @@
+.prettierrc
+package-lock.json
+pnpm-lock.yaml
+node_modules/
+jsdoc/
+cmd.txt
+JDOC/
